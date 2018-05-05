@@ -1,3 +1,4 @@
+[![Github Releases](https://img.shields.io/github/downloads/HazakiYoshimi/DSTM-equihash-miner-NO-DEV-FEE/latest/total.svg)](https://github.com/HazakiYoshimi/DSTM-equihash-miner-NO-DEV-FEE/)
 # DSTM equihash miner NO-DEV-FEE for Windows
 
 ## XXX
